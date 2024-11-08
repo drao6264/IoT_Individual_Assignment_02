@@ -1,4 +1,4 @@
-# ESP32 Environmental Monitoring System
+# ESP32 based Remote Environmental Parameter Monitoring System using MQTT and Node-RED
 
 A real-time environmental monitoring system using ESP32, DHT11 sensor, MQTT protocol, and Node-RED dashboard for temperature and humidity tracking.
 
