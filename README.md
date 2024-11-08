@@ -47,6 +47,9 @@ A real-time environmental monitoring system using ESP32, DHT11 sensor, MQTT prot
 - Historical data logging
 - Automated LED alerts
 
+## Demo Video
+![demo video](demo_video.mp4)
+
 ## Author
 
 Deepika Duggirala  
