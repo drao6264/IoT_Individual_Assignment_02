@@ -1,7 +1,7 @@
 # ESP32 Environmental Monitoring System
 
 A real-time environmental monitoring system using ESP32, DHT11 sensor, MQTT protocol, and Node-RED dashboard for temperature and humidity tracking.
-./video demonstration of my system.mp4
+
 ## Overview
 
 - Built with ESP32 microcontroller and DHT11 sensor
